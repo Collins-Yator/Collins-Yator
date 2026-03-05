@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a back-end engineer using Kotlin and Spring-Boot.<br>I also do web development using Django, html, css and <br>Bootstrap.
+Android Development(Kotlin). Backend Development(Kotlin & SpringBoot). PostgreSQL. Django.
 
 
 ## 🌐 Socials:
